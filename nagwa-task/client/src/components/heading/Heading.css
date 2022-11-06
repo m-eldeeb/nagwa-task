@@ -1,0 +1,14 @@
+.heading {
+  width: 600px;
+  text-align: center;
+}
+.heading__h1 {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 35px;
+}
+
+.heading__p {
+  color: #fff;
+  font-size: 17px;
+}
